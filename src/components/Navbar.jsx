@@ -35,7 +35,8 @@ export default function Navbar({ darkMode, setDarkMode }) {
     <nav className={`fixed top-0 w-full z-50 transition-all duration-300 ${scrolled ? "bg-[#0a0a0f]/90 backdrop-blur-md border-b border-cyan-900/30 shadow-lg" : "bg-transparent"}`}>
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-2">
-          <span className="text-cyan-400 font-bold text-lg">&lt;/&gt;</span>
+          <span className="text-cyan-400 font-bold text-lg"><img src="/src/assets/logo2.png" alt="HAJA DEV" className="w-10 h-10 object-contain"
+ /></span>
           <span className="font-bold text-white text-lg tracking-tight">HAJA<span className="text-cyan-400"> DEV</span></span>
         </a>
 
