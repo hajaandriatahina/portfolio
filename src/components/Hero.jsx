@@ -12,7 +12,7 @@ const SKILLS = [
 ];
 
 const titles = [
-  "Développeuse Full Stack",
+  "Développeurs Full Stack",
   "React / Next.js Dev",
   "Spring Boot Dev",
   "Node.js Backend Dev"
@@ -81,7 +81,7 @@ export default function Hero() {
           </h2>
 
           <p className="text-gray-400 text-base leading-relaxed max-w-md">
-            Étudiante en Master 2 Informatique à ENI Fianarantsoa. Passionnée par le développement web et logiciel. J'aime construire des applications modernes, performantes et utiles.
+            Étudiant en Master 2 Informatique à ENI Fianarantsoa. Passionnée par le développement web et logiciel. J'aime construire des applications modernes, performantes et utiles.
           </p>
 
           <div className="flex flex-wrap gap-4">

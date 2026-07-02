@@ -71,7 +71,7 @@ export default function About() {
           {/* Text */}
           <div className="space-y-6">
             <p className="text-gray-400 leading-relaxed">
-              Je suis étudiante en Master 2 Informatique Générale à l'École Nationale d'Informatique (ENI) de Fianarantsoa et développeuse full stack. Je maîtrise plusieurs technologies modernes pour concevoir des applications web, des API et des solutions logicielles robustes.
+              Je suis étudiant en Master 2 Informatique Générale à l'École Nationale d'Informatique (ENI) de Fianarantsoa et développeuse full stack. Je maîtrise plusieurs technologies modernes pour concevoir des applications web, des API et des solutions logicielles robustes.
             </p>
             <p className="text-gray-400 leading-relaxed">
               Mon parcours m'a permis de travailler sur des projets variés allant des applications web modernes avec React et Next.js, aux backends robustes avec Node.js et Spring Boot. Je suis passionnée par la création de solutions digitales qui résolvent de vrais problèmes.
