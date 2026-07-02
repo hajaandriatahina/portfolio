@@ -44,7 +44,7 @@ export default function Contact() {
               {[
                 { icon: <FiMail />, label: "Email", value: "hajaandriatahina0@gmail.vom", href: "mailto:hajandriatahina0@gmail.com" },
                 { icon: <FiPhone />, label: "Téléphone", value: "+26138 51 064 93", href: "tel:+261385106493" },
-                { icon: <FiMapPin />, label: "Localisation", value: "Fianarantsoa, Madagascar", href: "#" },
+                { icon: <FiMapPin />, label: "Localisation", value: "Antananarivo, Madagascar", href: "#" },
               ].map(({ icon, label, value, href }) => (
                 <a key={label} href={href}
                   className="flex items-center gap-4 bg-white/3 hover:bg-white/6 border border-white/5 hover:border-cyan-700/40 rounded-xl p-4 transition group">
