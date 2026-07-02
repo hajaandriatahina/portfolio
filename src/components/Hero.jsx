@@ -73,7 +73,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="text-2xl font-semibold text-gray-300 min-h-[3.5rem]">
-            Développeuse{" "}
+            Développeurs{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-cyan-400">
               {displayText}
             </span>
